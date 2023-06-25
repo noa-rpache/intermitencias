@@ -11,3 +11,8 @@
 - `vista` : interactúa con el usuario
     - hacer un prototipo para ver qué es lo que quiero exactamente la interfaz gráfica
 - `controlador` : responde a acciones del usuario enviando peticiones al `modelo` o cambios en la `vista`
+
+# por aprender
+- cómo hacer que los datos sean persistentes?
+- cómo hacer el script de lanzamiento
+- cómo coño hacer el calendario
